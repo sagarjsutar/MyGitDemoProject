@@ -1,4 +1,10 @@
 classs myClass{
+
+
+	void myMethod()
+		{
+			Sysout("My work here");
+		}
 	main()
 		{
 		Sysout("hello");
