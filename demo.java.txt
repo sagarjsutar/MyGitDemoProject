@@ -1,0 +1,7 @@
+classs myClass{
+	main()
+		{
+		Sysout("hello");
+	}
+
+}
