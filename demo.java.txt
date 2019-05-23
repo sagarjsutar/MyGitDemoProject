@@ -5,7 +5,7 @@ classs myClass{
 		{
 			Sysout("My work here");
 		}
-	main()
+	static main()
 		{
 		MyMetod();
 		Sysout("hello");
