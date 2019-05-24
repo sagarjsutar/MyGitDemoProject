@@ -9,6 +9,7 @@ classs myClass{
 		{
 		MyMetod();
 		Sysout("hello");
+		Sysout.println("value");
 	}
 
 }
