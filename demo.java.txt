@@ -6,8 +6,10 @@ classs myClass{
 			system.out.println("I got new Idea...");
 		}
 		
+
 		void displayDate(){
 			sysout("date in format dd//MM/yyyy")
+
 		}
 	public static void main(string args[])
 		{
