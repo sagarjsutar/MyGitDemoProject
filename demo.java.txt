@@ -6,8 +6,11 @@ classs myClass{
 			Sysout("My work here");
 		}
 	public static void main(string args[])
-		{//calling method by making static
-		MyMetod();//static method call
+
+		{
+		MyClass obj=new MyClass();
+		obj.MyMetod();//mymethod call by object
+
 		Sysout("hello");
 		Sysout.println("value");
 	}
