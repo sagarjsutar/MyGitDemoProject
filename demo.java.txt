@@ -1,13 +1,13 @@
 classs myClass{
 
 
-	void myMethod()
+	static void myMethod()
 		{
 			Sysout("My work here");
 		}
 	public static void main(string args[])
-		{
-		MyMetod();
+		{//calling method by making static
+		MyMetod();//static method call
 		Sysout("hello");
 		Sysout.println("value");
 	}
