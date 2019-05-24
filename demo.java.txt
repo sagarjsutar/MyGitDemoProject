@@ -13,6 +13,8 @@ classs myClass{
 
 		Sysout("hello");
 		Sysout.println("value");
+
+		// chnang1 in main
 	}
 
 }
