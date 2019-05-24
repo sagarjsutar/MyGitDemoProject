@@ -1,16 +1,13 @@
 classs myClass{
 
 
-	static void myMethod()
+	void myMethod()
 		{
-			Sysout("My work here");
+			system.out.println("I got new Idea...");
 		}
 	public static void main(string args[])
-
 		{
-		MyClass obj=new MyClass();
-		obj.MyMetod();//mymethod call by object
-
+		MyMetod();
 		Sysout("hello");
 		Sysout.println("value");
 
