@@ -7,7 +7,8 @@ classs myClass{
 		}
 	public static void main(string args[])
 		{
-		MyMetod();
+		MyClass obj=new MyClass();
+		obj.MyMetod();
 		Sysout("hello");
 		Sysout.println("value");
 	}
